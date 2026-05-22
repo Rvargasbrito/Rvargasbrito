@@ -17,11 +17,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 
-[<img align="left" alt="https://www.linkedin.com/in/ricardovargasbrito/#:~:text=www.linkedin.com/in/ricardovargasbrito| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ricardo Vargas Brito | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/ricardovargasbrito/#:~:text=www.linkedin.com/in/ricardovargasbrito
+[linkedin]: https://linkedin.com/in/___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
